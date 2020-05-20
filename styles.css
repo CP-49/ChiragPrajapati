@@ -440,7 +440,7 @@ text-align: left;
   /* skills section */
 
   .card-col {
-    margin: 0 10%;
+    margin: 0 auto;
   }
 
   .skill-header {
